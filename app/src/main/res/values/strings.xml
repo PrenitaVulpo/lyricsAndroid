@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lyrics</string>
+    <string name="band_name">Banda</string>
+    <string name="song_title">Título da música</string>
+    <string name="search">Buscar!</string>
+    <string name="display_lyrics">Now showing lyrics for:</string>
+</resources>
